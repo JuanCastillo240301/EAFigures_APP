@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742975455198",
+    "project_id": "eafigures-b7c55",
+    "storage_bucket": "eafigures-b7c55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742975455198:android:b36f286cb29681235c674f",
+        "android_client_info": {
+          "package_name": "com.example.eafigures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742975455198-batdisqnlv3a4qnor6qchbv4s4l35m7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh8vwuhA3LwtyNGQ0_aUWI0fwlpI1AP90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742975455198-batdisqnlv3a4qnor6qchbv4s4l35m7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
